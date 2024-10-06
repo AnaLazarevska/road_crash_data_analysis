@@ -16,8 +16,7 @@ The data for the project had to conform to the following rules:
 - contain at least 1,500 rows
 - include a geographical component with at least 2 different values
 
-With these restrictions in mind, I sourced [Road Crash Data in South Australia, 2019 to 2023](https://data.sa.gov.au/data/dataset/21386a53-56a1-4edf-bd0b-61ed15f10acf/resource/
-78d24425-6c14-426e-8895-d414c2a12521/download/2019-2023_data_sa_as_at_20240821.zip) from the South Australian Government’s Department for Infrastructure and Transport.
+With these restrictions in mind, I sourced [Road Crash Data in South Australia, 2019 to 2023](https://data.sa.gov.au/data/dataset/21386a53-56a1-4edf-bd0b-61ed15f10acf/resource/78d24425-6c14-426e-8895-d414c2a12521/download/2019-2023_data_sa_as_at_20240821.zip) from the South Australian Government’s Department for Infrastructure and Transport.
 
 The shapefile on [South Australia's suburb boundaries](https://data.gov.au/dataset/ds-dga-bcfcfc9a-7c8d-479a-9bdf-b95ca66ad29a/details) is sourced from the Australian Government Data Website.
 
