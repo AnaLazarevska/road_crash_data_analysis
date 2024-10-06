@@ -20,6 +20,9 @@ With these restrictions in mind, I sourced [Road Crash Data in South Australia, 
 
 The shapefile on [South Australia's suburb boundaries](https://data.gov.au/dataset/ds-dga-bcfcfc9a-7c8d-479a-9bdf-b95ca66ad29a/details) is sourced from the Australian Government Data Website.
 
+**Note:**
+The original datasets and most of the prepared datasets were removed from the folder due to file size limitation.
+
 ## Analysis Criteria
 - Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots, and categorical plots)
 - Geospatial analysis using a shapefile
